@@ -2,7 +2,8 @@
 
 ¡Welcome to my library of algorithms!
 
-Here I will post differents algorithms that I will programm just for fun and to learn about them.
+Here I will post differents algorithms that I will programm just for fun and to learn about them. 
+I will be learning the languages at the same time as the operation of the algorithm, so any help to improve is appreciated :smile:
 
 ## About language
 
