@@ -6,7 +6,7 @@ Here I will post differents algorithms that I will programm just for fun and to 
 
 ## About language
 
-I would use differents languages for this library, you can read more about it in the [information section](docs)
+I would use differents languages for this library, you can read more about it in the [information section](docs/languages)
 
 ## Algorithms already created
 
